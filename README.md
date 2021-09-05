@@ -6,6 +6,6 @@ Tableau Data Visualization Interactive Demo Dashboard Project for analyzing Goog
 
 ## Dahboard Link:
 
-https://public.tableau.com/app/profile/smita7725/viz/Googleplaystoreappsanalysis_16307524043350/Dashboard1?publish=yes
+https://public.tableau.com/app/profile/smita7725/viz/GooglePlayStoreAnalysis_16308309897920/Dashboard1
 
   
